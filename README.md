@@ -93,7 +93,7 @@ jupyter notebook
 
 ## 📜 License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute this software, provided that you include the original copyright and license notice.
+This project is licensed under the [MIT License](https://github.com/sambit-giri/mimirs-well?tab=MIT-1-ov-file). You are free to use, modify, and distribute this software, provided that you include the original copyright and license notice.
 
 ---
 
