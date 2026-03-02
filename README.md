@@ -28,7 +28,15 @@ Many of the experiments in this repository have an accompanying **interactive vi
 
 ### **[sambit-giri.github.io/mimirs-well](https://sambit-giri.github.io/mimirs-well/)**
 
-These are browser-based apps (JavaScript/WebGL) that let you explore algorithms and simulations without running any code locally. The source for these lives in the [`docs/`](./docs/) folder of this repository.
+These are browser-based apps that let you explore algorithms and simulations without running any code locally.
+
+| ID | Visualisation | Key Concepts | Status |
+| :--- | :--- | :--- | :--- |
+| **01** | [**The Great Sort Race**](https://sambit-giri.github.io/mimirs-well/sorting.html) | `Algorithms` `Showdown` | ✅ Live |
+| **02** | [**Cluster Finding**](https://sambit-giri.github.io/mimirs-well/clustering.html) | `Machine Learning` `Data Science` | ✅ Live |
+| **03** | [**MCMC Sampling**](https://sambit-giri.github.io/mimirs-well/MCMCsamplers.html) | `Statistics` `Bayesian Inference` | ✅ Live |
+
+The source code for these lives in the `docs/` folder of this repository.
 
 ---
 
@@ -38,7 +46,6 @@ These are browser-based apps (JavaScript/WebGL) that let you explore algorithms 
 | :--- | :--- | :--- | :--- |
 | **01** | [**The Monty Hall Paradox**](./notebooks/01-monty-hall/) | `Probability` `Monte Carlo` `Game Theory` | ✅ Complete |
 | **02** | [**Random Walks 1D/2D**](./notebooks/02-random-walks/) | `Stochastic Processes` `Diffusion` | 🚧 In Progress |
-| **03** | ... | ... | ... |
 
 ---
 
