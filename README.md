@@ -35,6 +35,7 @@ These are browser-based apps that let you explore algorithms and simulations wit
 | **01** | [**The Great Sort Race**](https://sambit-giri.github.io/mimirs-well/sorting.html) | `Algorithms` `Showdown` | ✅ Live |
 | **02** | [**Cluster Finding**](https://sambit-giri.github.io/mimirs-well/clustering.html) | `Machine Learning` `Data Science` | ✅ Live |
 | **03** | [**MCMC Sampling**](https://sambit-giri.github.io/mimirs-well/MCMCsamplers.html) | `Statistics` `Bayesian Inference` | ✅ Live |
+| **04** | [**The Occam's Razor Machine**](https://sambit-giri.github.io/mimirs-well/model-comparison.html) | `Statistics` `Model Selection` `Bayesian` | ✅ Live |
 
 The source code for these lives in the `docs/` folder of this repository.
 
